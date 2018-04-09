@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "eslint": "eslint src"
+    "lint": "eslint src"
   },
   "author": "Haisheng Wu <haisheng.wu@okta.com>",
   "license": "ISC",
